@@ -1,7 +1,6 @@
 Sakila Database for SQL Server  
 
-   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
    
 
 La base de datos Sakila  es una herramienta educativa que simula un sistema de alquiler de películas en una tienda de videos. Esta versión está adaptada para SQL Server , ideal para aprender y practicar consultas SQL, diseño de bases de datos y gestión de datos empresariales. 
