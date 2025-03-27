@@ -1,0 +1,53 @@
+Sakila Database for SQL Server  
+
+   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+   
+
+La base de datos Sakila  es una herramienta educativa que simula un sistema de alquiler de películas en una tienda de videos. Esta versión está adaptada para SQL Server , ideal para aprender y practicar consultas SQL, diseño de bases de datos y gestión de datos empresariales. 
+Características principales  
+
+    Simula una tienda de alquiler de películas.
+    Varias tablas interrelacionadas: clientes, películas, actores, tiendas, empleados, etc.
+    Incluye datos ficticios predefinidos para facilitar las pruebas.
+    Compatible con SQL Server 2016 o superior .
+     
+
+Requisitos previos  
+
+    SQL Server : Versión 2016 o superior.
+    SQL Server Management Studio (SSMS) : Para administrar la base de datos.
+    Conocimientos básicos de SQL.
+     
+
+Instalación  
+
+    Clona este repositorio o descarga los archivos .sql.
+    Crea una nueva base de datos llamada Sakila en SQL Server.
+    Ejecuta los archivos .sql para cargar la estructura y los datos.
+    Verifica la instalación consultando algunas tablas.
+     
+
+Estructura de la base de datos  
+
+Las principales tablas incluyen: 
+
+    actor : Información sobre los actores.
+    film : Datos sobre las películas.
+    customer : Información sobre los clientes.
+    rental : Registros de alquileres.
+    payment : Pagos realizados por los clientes.
+     
+
+Consultas de ejemplo  
+
+Consulta ejemplos básicos como: 
+
+    Obtener todas las películas.
+    Listar actores y sus películas.
+    Calcular ingresos por tienda.
+     
+
+Contribuciones  
+
+Si deseas contribuir, abre un issue o envía un pull request. ¡Todas las sugerencias son bienvenidas! 
